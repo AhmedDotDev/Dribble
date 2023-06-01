@@ -5,7 +5,7 @@ import Link from 'next/link';
 
 const Footer = () => {
     return (<>
-      <footer className="bg-gray-600 text-white">
+      <footer className="bg-gradient-to-b from-primary-blue to-gray-400 text-white py-6">
         <div className="container mx-auto py-8">
           <div className="flex flex-row gap-8">
             {/* Column 1 */}
